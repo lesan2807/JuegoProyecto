@@ -1,4 +1,4 @@
-# JuegoProyecto
+# Educational Skee-Ball
 This is an educational game based on trigonometry. The user must apply his knowledge in angles to give direction to the balls and try to sink them in the different holes that will appear in the board.
 
 The player first has 3 balls, they will be in a tube on a small circle. This circle will be located in the center of a bigger one. The largest circle will have different holes distributed around its area, and depending on their size the user wins or loses points.
